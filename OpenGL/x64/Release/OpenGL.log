@@ -1,0 +1,2 @@
+﻿Application.obj : error LNK2001: unresolved external symbol glewInit
+C:\Users\Splushka\source\repos\OpenGL\x64\Release\OpenGL.exe : fatal error LNK1120: 1 unresolved externals
